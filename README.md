@@ -31,11 +31,13 @@ This project implements the `OldPhonePadConverter` class, which translates keyst
 
 
 >[!TIP]
-- Converts numeric sequences to letters according to the standard
-- Supports keys 2 through 9
-- Handles spaces as separators
-- Implements the asterisk (*) as the delete key
-- Requires the hash (#) as a terminator
+>- Converts numeric sequences to letters according to the standard
+>- Supports keys 2 through 9
+>- Handles spaces as separators
+>- Implements the asterisk (*) as the delete key
+>- Requires the hash (#) as a terminator
+
+
 
 ## Basic Usage
 
