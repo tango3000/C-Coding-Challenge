@@ -1,12 +1,11 @@
 >[!NOTE]
-
-Converts numeric keypad sequences to text (T9 input)
+Converts numeric keypad sequences to text (input)
 Supports keys 2-9 with standard letter mappings
 Requires # terminator for all inputs
 Space acts as separator, * is delete function
 Requires .NET 6.0+ and basic C# knowledge
 
->[!WARNINGS]
+>[!WARNING]
 Input must end with # or fails
 No support for key 1
 Multiple spaces may cause unexpected results
