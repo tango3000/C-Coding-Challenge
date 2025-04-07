@@ -25,7 +25,7 @@ Old Phone Pad Keystroke Converter
 
 This project implements the `OldPhonePadConverter` class, which translates keystroke sequences from a traditional numeric keypad (like those on older phones) into text messages.
 
->[!TIP]
+> [!TIP]
 - Converts numeric sequences to letters according to the standard
 - Supports keys 2 through 9
 - Handles spaces as separators
