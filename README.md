@@ -11,10 +11,6 @@ No support for key 1
 Multiple spaces may cause unexpected results
 Very long sequences wrap around
 
-
->[!TIP]
->HOLA
-
 >[!IMPORTANT]
 Must instantiate OldPhonePadConverter
 Returns uppercase only
