@@ -1,4 +1,4 @@
-[!NOTE]
+>[!NOTE]
 
 Converts numeric keypad sequences to text (T9 input)
 Supports keys 2-9 with standard letter mappings
@@ -6,13 +6,13 @@ Requires # terminator for all inputs
 Space acts as separator, * is delete function
 Requires .NET 6.0+ and basic C# knowledge
 
-[!WARNINGS]
+>[!WARNINGS]
 Input must end with # or fails
 No support for key 1
 Multiple spaces may cause unexpected results
 Very long sequences wrap around
 
-[!IMPORTANT]
+>[!IMPORTANT]
 Must instantiate OldPhonePadConverter
 Returns uppercase only
 Examples: "4433555 555666#" → "HELLO"
@@ -26,7 +26,7 @@ Old Phone Pad Keystroke Converter
 
 This project implements the `OldPhonePadConverter` class, which translates keystroke sequences from a traditional numeric keypad (like those on older phones) into text messages.
 
-[!TIP]
+>[!TIP]
 
 - Converts numeric sequences to letters according to the standard
 - Supports keys 2 through 9
